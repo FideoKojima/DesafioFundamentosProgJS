@@ -1,0 +1,29 @@
+footer{
+  position: fixed;
+  bottom: 0;
+}
+
+.card img{
+  object-fit: cover;
+  border-radius: 5px 0 0 5px;
+}
+
+.no-data{
+  font-size: 26px;
+  text-align: center;
+}
+
+#powers{
+  width: 33.3333%;
+  height: 100%;
+}
+
+@media screen and (max-width: 992px){
+  canvas{
+    width: 100%;
+    margin-bottom: 5rem;
+  }
+  #powers{
+    width: 100%;
+  }
+}
