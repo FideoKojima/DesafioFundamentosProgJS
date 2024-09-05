@@ -1,6 +1,6 @@
 # Encuentra tu Superhero
 
-[Enlace Directo al Proyecto](https://desafio-fundamentos-prog-js.vercel.app/)
+[Enlace Directo al Proyecto](https://desafio-super-hero-api.vercel.app/)
 
 Este proyecto es una aplicación web que permite a los usuarios buscar y consultar información sobre sus superhéroes favoritos utilizando la Superhero API. El objetivo es proporcionar estadísticas y datos detallados de los superhéroes en una interfaz fácil de usar y visualmente atractiva.
 
