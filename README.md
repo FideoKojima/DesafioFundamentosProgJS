@@ -34,20 +34,28 @@ Este proyecto es una aplicación web que permite a los usuarios buscar y consult
 ## Estructura del Proyecto
 
 
-### Descripción de Archivos
+### Estructura del Proyecto
 
-- **assets/css/style.css**: Archivo principal de estilos CSS.
-- **assets/img/favicon.ico**: Ícono de la página.
-- **assets/img/sh1.jpg** y **assets/img/sh2.jpg**: Imágenes utilizadas en la interfaz.
-- **assets/js/scripts.js**: Archivo JavaScript principal que maneja la lógica de la aplicación.
-- **assets/js/jQuery.limpiar.js**: Plugin para limpiar datos.
-- **assets/js/jQuery.graficoCanvasJS.js**: Plugin para generar gráficos usando CanvasJS.
-- **assets/js/jQuery.generateCard.js**: Plugin para generar las tarjetas con la información del superhéroe.
-- **assets/js/jQuery.filtroInfoCardInvalido.js**: Plugin que filtra información inválida en las tarjetas.
-- **assets/js/jQuery.filtroInfoCardVacio.js**: Plugin que maneja tarjetas vacías.
-- **assets/js/jQuery.filtroRemoverTituloVacio.js**: Plugin que remueve títulos vacíos.
-- **index.html**: Estructura HTML de la página principal.
-- **README.md**: Archivo con información detallada del proyecto.
+```plaintext
+assets/
+├── css/
+│   └── style.css
+├── img/
+│   ├── favicon.ico
+│   ├── sh1.jpg
+│   └── sh2.jpg
+├── js/
+│   ├── scripts.js
+│   ├── jQuery.limpiar.js
+│   ├── jQuery.graficoCanvasJS.js
+│   ├── jQuery.generateCard.js
+│   ├── jQuery.filtroInfoCardInvalido.js
+│   ├── jQuery.filtroInfoCardVacio.js
+│   └── jQuery.filtroRemoverTituloVacio.js
+├── index.html
+└── README.md
+
+```
 
 ### Archivos Principales
 
